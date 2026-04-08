@@ -18,8 +18,6 @@
 
 **TG交流群**: https://t.me/CiaoTools
 
-![image](https://github.com/CiaoTool/CiaoTool/blob/295571b8cda35b44528c776e0e7948a705cf8737/homepage-ZH)
-
 ## 代币管理
 
 [代币创建](https://ciaotool.io/zh-CN/token/create): Solana一键发币，Solana发币
@@ -86,7 +84,7 @@
 
 ## 帮助文档
 
-[帮助文档](https://ciaotool.gitbook.io/ciaotool/yu-yan-zhong-wen)
+[帮助文档](https://ciaotool.gitbook.io/ciaotool)
 
 ## 联系我们
 
@@ -124,7 +122,6 @@ Launch tokens on Solana, BSC, and Base in minutes — no coding required.
 
 **Telegram Group**: https://t.me/CiaoTool  
 
-![image](https://github.com/CiaoTool/CiaoTool/blob/b9482d57aff58591d28722c3349d6d79b128efa6/CiaoTool-EN.png)
 
 ## Token Management
 
