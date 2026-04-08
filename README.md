@@ -1,4 +1,4 @@
-[简体中文]()  |  [English](https://github.com/CiaoTool/CiaoTool/blob/main/README.md#ciaotool-one-click-token-creation)
+[简体中文](https://github.com/ciaotools/CiaoTool-docs/blob/main/README.md#ciaotool%E4%B8%80%E9%94%AE%E5%8F%91%E5%B8%81)  |  [English](https://github.com/CiaoTool/CiaoTool/blob/main/README.md#ciaotool-one-click-token-creation)
 
 # CiaoTool一键发币
 
