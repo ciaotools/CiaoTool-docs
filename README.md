@@ -80,6 +80,14 @@
 
 [Bonk USD1 捆绑买入](https://ciaotool.io/zh-CN/letsbonkZone/USD1/bundled-buy)：降低价格波动风险
 
+## Meteora专区
+
+[Meteora 捆绑买入](https://ciaotool.io/zh-CN/meteora/bundled-buy)：支持批量买入 Meteora 代币，可同时操作多个地址，实现快速建仓，提高入场效率，减少手动操作时间。
+
+[Meteora 捆绑卖出](https://ciaotool.io/zh-CN/meteora/bundled-sell)：支持批量卖出 Meteora 代币，将多笔卖出操作统一执行，确保交易顺畅，降低滑点风险。
+
+[Meteora 卖出并捆绑买入](https://ciaotool.io/zh-CN/meteora/bundled-sell-buy)：在卖出代币的同时自动批量买入目标代币，实现换仓操作，资金流动更高效，同时降低市场冲击和操作风险。
+
 ## 帮助文档
 
 [帮助文档](https://ciaotool.gitbook.io/ciaotool)
@@ -184,6 +192,15 @@ Launch tokens on Solana, BSC, and Base in minutes — no coding required.
 [Bonk Bundled Sell & Buy](https://ciaotool.io/en-US/letsbonkZone/bundled-sell-buy): Sell Bonk while automatically buying another target token
 
 [Bonk USD1 Bundled Buy](https://ciaotool.io/en-US/letsbonkZone/USD1/bundled-buy): Buy Bonk with USD1 stablecoin to minimize volatility risks
+
+
+## Meteora Zone
+
+[Meteora Bundled Buy](https://ciaotool.io/en-US/meteora/bundled-buy)：Supports batch buying of Meteora tokens across multiple addresses, allowing rapid position entry and reducing manual operations.
+
+[Meteora Bundled Sell](https://ciaotool.io/en-US/meteora/bundled-sell)：Executes batch selling of Meteora tokens, consolidating multiple sell orders to ensure smooth execution and minimize slippage.
+
+[Meteora Sell and Bundled Buy](https://ciaotool.io/en-US/meteora/bundled-sell-buy)：Automatically sells tokens while simultaneously buying target tokens in bulk, enabling efficient portfolio reallocation with lower market impact and operational risk.
 
 ## Documentation
 
