@@ -1,5 +1,3 @@
-[简体中文]([https://github.com/ciaotools/CiaoTool-docs/blob/main/README.md#ciaotool%E4%B8%80%E9%94%AE%E5%8F%91%E5%B8%81](https://github.com/ciaotools/CiaoTool-docs/blob/main/README.md#ciaotool%E4%B8%80%E9%94%AE%E5%8F%91%E5%B8%81))  |  [English]([https://github.com/CiaoTool/CiaoTool/blob/main/README.md#ciaotool-one-click-token-creation](https://github.com/ciaotools/CiaoTool-docs/blob/main/README.md#ciaotool-one-click-token-creation))
-
 # CiaoTool一键发币
 
 [CiaoTool](https://ciaotool.io)提供全网最低成本的一键发币服务！无需代码，超低手续费，即可在Solana、BSC、Base、XLayer、IoTeX等区块链上快速创建代币并完成批量空投，助您轻松启动加密项目.
